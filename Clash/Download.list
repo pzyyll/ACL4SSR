@@ -27,3 +27,4 @@ PROCESS-NAME,Weiyun.exe
 PROCESS-NAME,baidunetdisk.exe
 # navida
 DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,nvidia.cn
