@@ -28,3 +28,5 @@ PROCESS-NAME,baidunetdisk.exe
 # navida
 DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,nvidia.cn
+# Xbox
+URL-REGEX,assets\d+\.xboxlive\.(com|cn)
