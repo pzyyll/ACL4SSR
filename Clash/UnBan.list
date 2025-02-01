@@ -44,3 +44,6 @@ DOMAIN-SUFFIX,koodomobile.ca
 
 # VSCode CDN
 DOMAIN-SUFFIX,vscode-cdn.net
+
+# ollama
+DOMAIN-KEYWORD,ollama
